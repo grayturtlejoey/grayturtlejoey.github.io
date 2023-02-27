@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+;
+
+h1 {
+    font-weight: 700;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+p {
+    font-weight: 400;
+}
